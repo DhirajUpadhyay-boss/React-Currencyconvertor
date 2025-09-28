@@ -18,3 +18,6 @@ Utility-first CSS framework for styling
 JavaScript library for building user interfaces
 ### Vite: 
 Fast build tool and development server
+### How the App in PC looks
+<img width="1703" height="883" alt="image" src="https://github.com/user-attachments/assets/d9caec54-7ffe-4188-907e-ccb5bfc19737" />
+
