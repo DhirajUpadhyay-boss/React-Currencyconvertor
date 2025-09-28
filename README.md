@@ -1,16 +1,16 @@
-# React + Vite
+Currency Converter
+A modern, responsive currency converter web application with swap functionality built using React and styled with Tailwind CSS.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Real-time Currency Conversion: Convert between multiple currencies with up-to-date exchange rates
+Swap Functionality: Quickly swap between source and target currencies with a single click
+Responsive Design: Works seamlessly across desktop, tablet, and mobile devices
+Clean UI: Modern and intuitive user interface built with Tailwind CSS
+Fast Performance: Built with React for optimal user experience
 
-Currently, two official plugins are available:
+Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML5: Semantic markup structure
+Tailwind CSS: Utility-first CSS framework for styling
+React.js: JavaScript library for building user interfaces
+Vite: Fast build tool and development server
