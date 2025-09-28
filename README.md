@@ -14,7 +14,7 @@ Fast Performance: Built with React for optimal user experience
 Semantic markup structure
 ### Tailwind CSS: 
 Utility-first CSS framework for styling
-###React.js: 
+### React.js: 
 JavaScript library for building user interfaces
-###Vite: 
+### Vite: 
 Fast build tool and development server
