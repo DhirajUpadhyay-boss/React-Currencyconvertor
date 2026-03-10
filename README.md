@@ -22,5 +22,5 @@ Fast build tool and development server
 App.jsx, useCurrencyinfo.js and InputBox.jsx
 
 ### How the App in PC looks
-<img width="1703" height="883" alt="image" src="https://github.com/user-attachments/assets/d9caec54-7ffe-4188-907e-ccb5bfc19737" />
+
 
