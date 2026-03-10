@@ -22,5 +22,5 @@ Fast build tool and development server
 App.jsx, useCurrencyinfo.js and InputBox.jsx
 
 ### How the App in PC looks
-
+<img src="image_0.png" alt="Currency Converter Screenshot" width="800">
 
