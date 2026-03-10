@@ -3,10 +3,15 @@ A modern, responsive currency converter web application with swap functionality 
 ## Features
 
 ✦ Real-time Currency Conversion — Live exchange rates via Frankfurter API (European Central Bank data), updated daily
+
 ⇅ Instant Swap — Swap source and target currencies in one click, values swap automatically
+
 🎨 Glassmorphism UI — Premium dark-themed interface with gold accents, built entirely with Tailwind CSS utility classes
+
 ⚛️ Custom React Hook — useCurrencyInfo() handles all API fetching and state with useEffect & useState
+
 📱 Fully Responsive — Fluid layout that adapts seamlessly across desktop, tablet, and mobile
+
 ⚡ Optimized Performance — Zero unnecessary re-renders; hook only refetches when selected currency actually changes
 
 ## Tech Stack
