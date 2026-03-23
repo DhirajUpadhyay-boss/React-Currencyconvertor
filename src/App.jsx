@@ -6,8 +6,8 @@ import useCurrencyInfo from './components/useCurrencyinfo'
 function App() {
 
   const [amount, setAmount] = useState(0)
-  const [from, setFrom] = useState("usd")
-  const [to, setTo] = useState("inr")
+  const [from, setFrom] = useState("USD")
+  const [to, setTo] = useState("INR")
   const [convertedAmount, setConvertedAmount] = useState(0)
 
   const currencyInfo = useCurrencyInfo(from)
