@@ -21,7 +21,8 @@ const options = [from, ...Object.keys(currencyInfo)]
   }
   
   const convert = () => {
-    setConvertedAmount(amount * currencyInfo[to])
+    let myval =new Number(amount * currencyInfo[to]).toFixed(2);
+    setConvertedAmount(myval)
   }
 
   return (
